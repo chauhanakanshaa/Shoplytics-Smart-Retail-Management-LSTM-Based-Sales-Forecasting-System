@@ -1,0 +1,2 @@
+# Shoplytics-Smart-Retail-Management-LSTM-Based-Sales-Forecasting-System
+A Python Flask-based retail management and business analytics web application featuring product and inventory management, sales tracking, expense management, Excel/CSV data processing, interactive financial dashboards, and machine learning-based sales forecasting using LSTM. Built with Python, Flask, MySQL/SQLite, Pandas, NumPy, Plotly, Bootstrap.
